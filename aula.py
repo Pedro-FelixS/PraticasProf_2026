@@ -5,3 +5,5 @@ print("Vamos desenhar")
 
 for x in range(10):
 	print("-", end="")
+
+main()
